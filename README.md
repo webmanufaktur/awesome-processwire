@@ -38,6 +38,39 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 ## Modules
+
+### SEO
+
+* [SeoMaestro]()
+* [Sitemap]()
+* [Sitemap XML]()
+
+
+### Privacy / GDPR / DSGVO
+
+CookieManagementBanner
+PrivacyWire
+
+### Analytics
+
+* [PageHitCounter](https://processwire.com/modules/page-hit-counter/)
+* [RockHitCounter](https://github.com/baumrock/RockHitCounter)
+
+### Developer Tools
+
+* [Pro Dev Tools (Pro Module)](https://processwire.com/store/pro-dev-tools/)
+* [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
+
+
+### Nifty Little Helper
+
+* [Minimal Fieldset]() -
+* [Fieldsetwitdt]() - 
+* [AdminhelperLinks]() - 
+* [HannaCodeDialog]() - 
+* [HannaCodeHelper]() - 
+
+
 * Primary Modules
   * [Form Builder](https://modules.processwire.com/modules/form-builder/)
   * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
@@ -50,7 +83,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * Secondary Modules
   * [Social Share Buttons](https://modules.processwire.com/modules/markup-social-share-buttons/)
   * [GraphQL](https://modules.processwire.com/modules/process-graph-ql/)
-  * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
   * [Pages2JSON](https://github.com/IDT-media/Pages2JSON)
 * Fields
   * [Decimal](https://modules.processwire.com/modules/fieldtype-decimal/)
@@ -66,7 +98,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Padloper](https://www.padloper.pw/) - **not in active development anymore**
 
 ## Frameworks
-
 * [Wireframe Framework](https://wireframe-framework.com/) - Wireframe is an output framework for ProcessWire CMS/CMF.
 
 ## Social
