@@ -13,14 +13,15 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ProcessWire Docs](https://processwire.com/docs/)
 * [ProcessWire API Reference](https://processwire.com/api/ref/)
 * [ProcessWire API Cheatsheet](https://cheatsheet.processwire.com/)
-* [ProcessWire Tutorials](https://processwire.com/docs/tutorials/)
-* [ProcessWire Getting started](https://processwire.com/docs/start/)
 * [ProcessWire Github (master/stable branch)](https://github.com/processwire/processwire)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
 * [ProcessWire Issues on Github](https://github.com/processwire/processwire-issues/issues)
+* [ProcessWire PHP Coding Style Guide v1.0](https://processwire.com/docs/more/coding-style-guide/)
 
 ## Important Docs
 
+* [ProcessWire Tutorials](https://processwire.com/docs/tutorials/)
+* [ProcessWire Getting started](https://processwire.com/docs/start/)
 * [ProcessWire Selectors](https://processwire.com/docs/selectors/)
 * [ProcessWire Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
 * [ProcessWire setting() Function](https://processwire.com/api/ref/functions/setting/)
@@ -32,7 +33,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Hidden/Overlooked Features
 * [On-demand mirroring of remote web server files to your dev environment](https://processwire.com/blog/posts/pw-3.0.137/#on-demand-mirroring-of-remote-web-server-files-to-your-dev-environment) - Copy the assets from the live server automatically, on-demand, as needed.
-* [Maintaining a separate development configuration file](https://processwire.com/docs/start/variables/config/) - You may optionally maintain a separate development configuration file at /site/config-dev.php. When present, ProcessWire will use this file rather than /site/config.php.
+* [Maintaining a separate development configuration file](https://processwire.com/docs/start/variables/config/) - You may optionally maintain a separate development configuration file at _/site/config-dev.php_. When present, ProcessWire will use this file rather than _/site/config.php_.
 * []() -
 
 
@@ -55,24 +56,31 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   * [Decimal](https://modules.processwire.com/modules/fieldtype-decimal/)
   * [Mystique](https://modules.processwire.com/modules/mystique/)
   * [Select File](https://modules.processwire.com/modules/fieldtype-select-file/)
-* Ecommerce
-  * [Padloper](https://www.padloper.pw/)
-  * [SnipWire](https://github.com/gadgetto/SnipWire)
 * Admin Tools
   * [Batcher](https://modules.processwire.com/modules/process-batcher/)
   * [Admin Template Columns](https://modules.processwire.com/modules/admin-template-columns/)
 
+## Ecommerce
+* [SnipWire](https://github.com/gadgetto/SnipWire) - SnipWire is the missing link between Snipcart and the content management framework ProcessWire.
+* [Padloper 2 (upcoming)](https://processwire.com/talk/topic/19912-future-of-padloper-new-project-lead-announcement/) - Forum thread
+* [Padloper](https://www.padloper.pw/) - **not in active development anymore**
+
+## Frameworks
+
+* [Wireframe Framework](https://wireframe-framework.com/) - Wireframe is an output framework for ProcessWire CMS/CMF.
+
 ## Social
 * [Twitter](https://twitter.com/processwire)
 * [Facebook](https://www.facebook.com/groups/265558090161714/)
-* [Discord](https://discord.gg/ArMwVRUUTF)
+* [Discord](https://discord.gg/ArMwVRUUTF) - Community Discord (not official)
 
 ## Code Snippets
 * [ProcessWire Recipes](https://processwire-recipes.com/)
 * [Soma's Gists](https://gist.github.com/somatonic)
 
 ## Community Projects (may need a better name)<a name="communityprojects"></a>
-* [pwgeeks.com](https://pwgeeks.com/) - ProcessWire Asset Catalog
 * [ProcessWire Weekly](https://weekly.pw/)
 * [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
+* [pwgeeks.com](https://pwgeeks.com/) - ProcessWire Asset Catalog
+* [processwire.dev](https://processwire.dev/) - Tutorials for adept web development with ProcessWire
 * [Wirecasts (coming soon)](https://wirecasts.com/)
