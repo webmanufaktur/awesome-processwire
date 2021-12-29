@@ -15,18 +15,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ProcessWire API Cheatsheet](https://cheatsheet.processwire.com/)
 * [ProcessWire Tutorials](https://processwire.com/docs/tutorials/)
 * [ProcessWire Getting started](https://processwire.com/docs/start/)
-* [ProcessWire Modules (plugins) and hooks](https://processwire.com/docs/modules/)
-* [ProcessWire Access control](https://processwire.com/docs/user-access/)
-* [ProcessWire Security](https://processwire.com/docs/security/)
-* [ProcessWire Multi-language support](https://processwire.com/docs/multi-language-support/)
 * [ProcessWire Github (master/stable branch)](https://github.com/processwire/processwire)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
 * [ProcessWire Issues on Github](https://github.com/processwire/processwire-issues/issues)
-
-## Hidden/Overlooked Features
-* [On-demand mirroring of remote web server files to your dev environment](https://processwire.com/blog/posts/pw-3.0.137/#on-demand-mirroring-of-remote-web-server-files-to-your-dev-environment) - Copy the assets from the live server automatically, on-demand, as needed.
-* [Maintaining a separate development configuration file](https://processwire.com/docs/start/variables/config/) - You may optionally maintain a separate development configuration file at /site/config-dev.php. When present, ProcessWire will use this file rather than /site/config.php.
-* []() -
 
 ## Important Docs
 
@@ -34,6 +25,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [ProcessWire Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
 - [ProcessWire setting() Function](https://processwire.com/api/ref/functions/setting/)
 - [ProcessWire datetime() Function](https://processwire.com/api/ref/functions/datetime/)
+* [ProcessWire Modules (plugins) and hooks](https://processwire.com/docs/modules/)
+* [ProcessWire Access control](https://processwire.com/docs/user-access/)
+* [ProcessWire Security](https://processwire.com/docs/security/)
+* [ProcessWire Multi-language support](https://processwire.com/docs/multi-language-support/)
+
+## Hidden/Overlooked Features
+* [On-demand mirroring of remote web server files to your dev environment](https://processwire.com/blog/posts/pw-3.0.137/#on-demand-mirroring-of-remote-web-server-files-to-your-dev-environment) - Copy the assets from the live server automatically, on-demand, as needed.
+* [Maintaining a separate development configuration file](https://processwire.com/docs/start/variables/config/) - You may optionally maintain a separate development configuration file at /site/config-dev.php. When present, ProcessWire will use this file rather than /site/config.php.
+* []() -
+
 
 ## Modules
 * Primary Modules
