@@ -54,6 +54,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 ## Social
 * [Twitter](https://twitter.com/processwire)
 * [Facebook](https://www.facebook.com/groups/265558090161714/)
+* [Discord](https://discord.gg/ArMwVRUUTF)
 
 ## Code Snippets
 * [ProcessWire Recipes](https://processwire-recipes.com/)
