@@ -9,14 +9,19 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Essentials
 * [ProcessWire Website](https://processwire.com/)
+* [ProcessWire Blog](https://processwire.com/blog/)
+* [ProcessWire Docs](https://processwire.com/docs/)
+* [ProcessWire API Reference](https://processwire.com/api/ref/)
+* [ProcessWire API Cheatsheet](https://cheatsheet.processwire.com/)
+* [ProcessWire Tutorials](https://processwire.com/docs/tutorials/)
+* [ProcessWire Getting started](https://processwire.com/docs/start/)
+* [ProcessWire Modules (plugins) and hooks](https://processwire.com/docs/modules/)
+* [ProcessWire Access control](https://processwire.com/docs/user-access/)
+* [ProcessWire Security](https://processwire.com/docs/security/)
+* [ProcessWire Multi-language support](https://processwire.com/docs/multi-language-support/)
+* [ProcessWire Github (master/stable branch)](https://github.com/processwire/processwire)
 * [ProcessWire GitHub (dev branch)](https://github.com/processwire/processwire/tree/dev)
-* [Docs](https://processwire.com/docs/)
-* [API](https://processwire.com/api/ref/)
-* [API Cheatsheet](https://cheatsheet.processwire.com/)
-* [Blog](https://processwire.com/blog/)
-* [ProcessWire Weekly](https://weekly.pw/)
-* [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
-* [Wirecasts (coming soon)](https://wirecasts.com/)
+* [ProcessWire Issues on Github](https://github.com/processwire/processwire-issues/issues)
 
 ## Hidden/Overlooked Features
 * [On-demand mirroring of remote web server files to your dev environment](https://processwire.com/blog/posts/pw-3.0.137/#on-demand-mirroring-of-remote-web-server-files-to-your-dev-environment) - Copy the assets from the live server automatically, on-demand, as needed.
@@ -25,10 +30,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Important Docs
 
-- [Selectors](https://processwire.com/docs/selectors/)
-- [Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
-- [setting() Function](https://processwire.com/api/ref/functions/setting/)
-- [datetime() Function](https://processwire.com/api/ref/functions/datetime/)
+- [ProcessWire Selectors](https://processwire.com/docs/selectors/)
+- [ProcessWire Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
+- [ProcessWire setting() Function](https://processwire.com/api/ref/functions/setting/)
+- [ProcessWire datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 
 ## Modules
 * Primary Modules
@@ -67,3 +72,6 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Community Projects (may need a better name)<a name="communityprojects"></a>
 * [pwgeeks.com](https://pwgeeks.com/) - ProcessWire Asset Catalog
+* [ProcessWire Weekly](https://weekly.pw/)
+* [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
+* [Wirecasts (coming soon)](https://wirecasts.com/)
