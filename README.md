@@ -18,6 +18,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [WordPress vs. ProcessWire](https://www.youtube.com/playlist?list=PLOrdUWNK38ibz8U_5Vq4zSPZfvFKzUuiT): 36 comparison videos
 * [Wirecasts (coming soon)](https://wirecasts.com/)
 
+## Hidden/Overlooked Features
+* [On-demand mirroring of remote web server files to your dev environment](https://processwire.com/blog/posts/pw-3.0.137/#on-demand-mirroring-of-remote-web-server-files-to-your-dev-environment) - Copy the assets from the live server automatically, on-demand, as needed.
+* [Maintaining a separate development configuration file](https://processwire.com/docs/start/variables/config/) - You may optionally maintain a separate development configuration file at /site/config-dev.php. When present, ProcessWire will use this file rather than /site/config.php.
+* []() -
+
 ## Important Docs
 
 - [Selectors](https://processwire.com/docs/selectors/)
@@ -60,3 +65,5 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [ProcessWire Recipes](https://processwire-recipes.com/)
 * [Soma's Gists](https://gist.github.com/somatonic)
 
+## Community Projects (may need a better name)<a name="communityprojects"></a>
+* [pwgeeks.com](https://pwgeeks.com/) - ProcessWire Asset Catalog
