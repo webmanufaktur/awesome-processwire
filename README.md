@@ -21,10 +21,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ## Important Docs
 
-- [ProcessWire Selectors](https://processwire.com/docs/selectors/)
-- [ProcessWire Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
-- [ProcessWire setting() Function](https://processwire.com/api/ref/functions/setting/)
-- [ProcessWire datetime() Function](https://processwire.com/api/ref/functions/datetime/)
+* [ProcessWire Selectors](https://processwire.com/docs/selectors/)
+* [ProcessWire Markup Regions](https://processwire.com/docs/front-end/output/markup-regions/)
+* [ProcessWire setting() Function](https://processwire.com/api/ref/functions/setting/)
+* [ProcessWire datetime() Function](https://processwire.com/api/ref/functions/datetime/)
 * [ProcessWire Modules (plugins) and hooks](https://processwire.com/docs/modules/)
 * [ProcessWire Access control](https://processwire.com/docs/user-access/)
 * [ProcessWire Security](https://processwire.com/docs/security/)
