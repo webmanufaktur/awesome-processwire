@@ -6,6 +6,7 @@ Awesome ProcessWire
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
+**Table of contents**
 <!-- vim-markdown-toc GFM -->
 
 * [Essentials](#essentials)
