@@ -5,7 +5,29 @@ Awesome ProcessWire
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
-[toc]
+
+<!-- vim-markdown-toc GFM -->
+
+* [Essentials](#essentials)
+* [Important Docs](#important-docs)
+* [Hidden/Overlooked Features](#hiddenoverlooked-features)
+* [Modules](#modules)
+    * [SEO](#seo)
+    * [Privacy / GDPR / DSGVO](#privacy--gdpr--dsgvo)
+    * [Analytics](#analytics)
+    * [Developer Tools](#developer-tools)
+    * [Nifty Little Helper](#nifty-little-helper)
+    * [Primary Modules](#primary-modules)
+    * [Secondary Modules](#secondary-modules)
+    * [Fields](#fields)
+    * [Admin Tools](#admin-tools)
+    * [Ecommerce](#ecommerce)
+    * [Frameworks](#frameworks)
+    * [Social](#social)
+    * [Code Snippets](#code-snippets)
+    * [Community Projects (may need a better name)<a name="communityprojects"></a>](#community-projects-may-need-a-better-namea-namecommunityprojectsa)
+
+<!-- vim-markdown-toc -->
 
 ## Essentials
 * [ProcessWire Website](https://processwire.com/)
@@ -40,10 +62,10 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ### SEO
 
-* [SeoMaestro](https://processwire.com/modules/seo-maestro/)
 * [MarkupSitemap](https://processwire.com/modules/markup-sitemap/)
+* [SeoMaestro](https://processwire.com/modules/seo-maestro/)
 * [Sitemap XML](https://processwire.com/modules/markup-sitemap-xml/)
-* [ProcessWire Sitemap Submit Module](https://github.com/SkyLundy/ProcessSitemapSubmit)
+* [Sitemap Submit Module](https://github.com/SkyLundy/ProcessSitemapSubmit)
 
 ### Privacy / GDPR / DSGVO
 
@@ -62,11 +84,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 ### Nifty Little Helper
 
-* [TemplateFieldWidths](https://processwire.com/modules/template-field-widths/)
-* [MinimalFieldset](https://processwire.com/modules/minimal-fieldset/)
 * [AdminhelperLinks](https://processwire.com/modules/admin-helper-links/)
 * [HannaCodeDialog](https://processwire.com/modules/hanna-code-dialog/)
 * [HannaCodeHelper](https://processwire.com/modules/hanna-code-helper/)
+* [MinimalFieldset](https://processwire.com/modules/minimal-fieldset/)
+* [TemplateFieldWidths](https://processwire.com/modules/template-field-widths/)
 
 ### Primary Modules
 
@@ -74,8 +96,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Hanna Code](https://modules.processwire.com/modules/process-hanna-code/)
 * [Hanna Code Dialog](https://modules.processwire.com/modules/hanna-code-dialog/)
 * [ProCache](https://modules.processwire.com/modules/pro-cache/)
-* [ListerPro](https://processwire.com/store/lister-pro/)
 * [ProcessWire Upgrade](https://modules.processwire.com/modules/process-wire-upgrade/)
+* [ListerPro](https://processwire.com/store/lister-pro/)
 * [Database Backups](https://modules.processwire.com/modules/process-database-backups/)
 * [Jumplinks](https://modules.processwire.com/modules/process-jumplinks/)
 
