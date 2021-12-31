@@ -44,12 +44,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [SeoMaestro]()
 * [Sitemap]()
 * [Sitemap XML]()
-
+* [ProcessWire Sitemap Submit Module](https://github.com/SkyLundy/ProcessSitemapSubmit)
 
 ### Privacy / GDPR / DSGVO
 
-CookieManagementBanner
-PrivacyWire
+* [CookieManagementBanner]()
+* [PrivacyWire]()
 
 ### Analytics
 
@@ -61,14 +61,13 @@ PrivacyWire
 * [Pro Dev Tools (Pro Module)](https://processwire.com/store/pro-dev-tools/)
 * [Tracy Debugger](https://modules.processwire.com/modules/tracy-debugger/)
 
-
 ### Nifty Little Helper
 
-* [Minimal Fieldset]() -
-* [Fieldsetwitdt]() - 
-* [AdminhelperLinks]() - 
-* [HannaCodeDialog]() - 
-* [HannaCodeHelper]() - 
+* [TemplateFieldWidths](https://processwire.com/modules/template-field-widths/)
+* [MinimalFieldset](https://processwire.com/modules/minimal-fieldset/)
+* [AdminhelperLinks](https://processwire.com/modules/admin-helper-links/)
+* [HannaCodeDialog](https://processwire.com/modules/hanna-code-dialog/)
+* [HannaCodeHelper](https://processwire.com/modules/hanna-code-helper/)
 
 
 * Primary Modules
