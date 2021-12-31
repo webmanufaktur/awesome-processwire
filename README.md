@@ -3,7 +3,6 @@ Awesome ProcessWire
 
 > A curated list of awesome bookmarks, modules, tutorials, videos and other cool resources from the ProcessWire ecosystem.
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
 
 **Table of contents**
@@ -27,6 +26,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
     * [Social](#social)
     * [Code Snippets](#code-snippets)
     * [Community Projects (may need a better name)<a name="communityprojects"></a>](#community-projects-may-need-a-better-namea-namecommunityprojectsa)
+        * [Credits](#credits)
 
 <!-- vim-markdown-toc -->
 
@@ -146,3 +146,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [pwgeeks.com](https://pwgeeks.com/) - ProcessWire Asset Catalog
 * [processwire.dev](https://processwire.dev/) - Tutorials for adept web development with ProcessWire
 * [Wirecasts (coming soon)](https://wirecasts.com/)
+
+
+
+#### Credits
+Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
